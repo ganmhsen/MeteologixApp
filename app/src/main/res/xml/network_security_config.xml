@@ -10,6 +10,5 @@
         <domain includeSubdomains="true">meteologix.com</domain>
         <domain includeSubdomains="true">img6.meteologix.com</domain>
         <domain includeSubdomains="true">osm.meteologix.com</domain>
-        <domain includeSubdomains="true">meteologix.com</domain>
     </domain-config>
 </network-security-config>
