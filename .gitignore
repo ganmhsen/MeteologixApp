@@ -1,0 +1,35 @@
+# Android Studio
+.idea/
+*.iml
+local.properties
+build/
+.gradle/
+
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+gradle-wrapper.jar
+
+# Generated files
+app/build/
+*.apk
+*.aar
+*.ap_
+*.dex
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+
+# Android Studio captures
+captures/

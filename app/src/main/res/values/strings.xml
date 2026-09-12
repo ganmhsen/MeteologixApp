@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meteologix - خرائط الطقس</string>
+    <string name="app_name_short">Meteologix</string>
+    <string name="loading">جاري التحميل...</string>
+    <string name="error_loading">خطأ في التحميل</string>
+    <string name="no_internet">لا يوجد اتصال بالإنترنت</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="pull_to_refresh">اسحب للتحديث</string>
+</resources>
