@@ -53,16 +53,14 @@ class MainActivity : AppCompatActivity() {
         settings.javaScriptEnabled = true
         settings.domStorageEnabled = true
         settings.databaseEnabled = true
-        settings.setAppCacheEnabled(true)
         settings.cacheMode = WebSettings.LOAD_DEFAULT
 
         // Enable zoom
         settings.builtInZoomControls = true
         settings.displayZoomControls = false
-        settings.supportZoom = true
+        settings.useWideViewPort = true
 
         // Enable wide viewport
-        settings.useWideViewPort = true
         settings.loadWithOverviewMode = true
 
         // Enable mixed content
